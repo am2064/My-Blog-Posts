@@ -3,7 +3,7 @@
 - kinostl
 - 2/20/2014
 - Myself
-- draft
+- published
 
 So, the best way to get you up to speed would probably be just to talk about it.
 My home setup is an Asus K53U. This thing isn't the prettiest, it has a Core 2
